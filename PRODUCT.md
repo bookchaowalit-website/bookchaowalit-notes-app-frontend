@@ -10,6 +10,12 @@ Portfolio repository under Book Dev. This brief records ownership and the
 current honest status so the nested tree is not an empty shell in the task
 system.
 
+## Current product truth
+
+This is a single-browser notebook for creating, searching, editing, selecting,
+and deleting short notes. Notes live in localStorage on the current origin;
+there is no account, sync, collaboration, markdown parser, or remote backup.
+
 ## Runnable path
 
 See `README.md` for install and run instructions when present.
